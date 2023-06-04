@@ -1,7 +1,7 @@
 # Datascience-Notes
  
 
-📚  My Total DataScience Notes - your comprehensive resource for all things data science! 📊🧠
+📚  My Total DataScience Notes - your comprehensive resource for all things data science! 📊🧠🧠📝✨
 
 ✍️ Are you tired of scouring the internet for various data science topics and algorithms? Look no further! Total DataScience Notes is here to provide you with meticulously hand-written notes covering a wide range of data science concepts, algorithms, and techniques. 🧠📝✨
 
